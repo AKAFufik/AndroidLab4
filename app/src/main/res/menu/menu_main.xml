@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/LiKE"
+        android:orderInCategory="100"
+        android:title="LIKE"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/all"
+        android:orderInCategory="100"
+        android:title="All"
+        app:showAsAction="never"/>
+
+    <item
+    android:id="@+id/abyssianian"
+    android:orderInCategory="100"
+    android:title="Abyssinian"
+    app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/aegean"
+        android:orderInCategory="100"
+        android:title="Aegean"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/balinese"
+        android:orderInCategory="100"
+        android:title="Balinese"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/bengal"
+        android:orderInCategory="100"
+        android:title="Bengal"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/burmese"
+        android:orderInCategory="100"
+        android:title="Burmese"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/chartreux"
+        android:orderInCategory="100"
+        android:title="Chartreux"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/cymric"
+        android:orderInCategory="100"
+        android:title="Cymric"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/persian"
+        android:orderInCategory="100"
+        android:title="Persian"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/ragdoll"
+        android:orderInCategory="100"
+        android:title="Ragdoll"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/savannah"
+        android:orderInCategory="100"
+        android:title="Savannah"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/sphynx"
+        android:orderInCategory="100"
+        android:title="Sphynx"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/toyger"
+        android:orderInCategory="100"
+        android:title="Toyger"
+        app:showAsAction="never"/>
+</menu>
